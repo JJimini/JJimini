@@ -1,10 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=150&section=header" />
 
-## Github
+## 👋🏻 Welcome!
+
+안녕하세요! 끊임없이 고민하고, 지속적으로 발전하는 백엔드 개발자 이지민입니다.
+
+## 📈 Github
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JJimini&theme=onedark)](https://git.io/streak-stats)
 
-## Latest Posting
+## 📒 Latest Posting
 
 [DOORE 서비스 고민을 정리하며](https://jjimini.github.io/posts/DOORE-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9D%98-%EA%B3%A0%EB%AF%BC%EC%9D%84-%EC%A0%95%EB%A6%AC%ED%95%98%EB%A9%B0/)
 
