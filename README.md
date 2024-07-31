@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=150&section=header" />
+<img src="https://github-readme-stats.vercel.app/api?username=JJimini&show_icons=true">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=150&section=footer" />
 
