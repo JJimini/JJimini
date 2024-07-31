@@ -1,4 +1,6 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=150&section=header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=150&section=footer" />
 
 <!--
 **JJimini/JJimini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
