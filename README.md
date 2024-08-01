@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=200&section=header" />
 
 ## 👋🏻 Welcome!
 
@@ -16,7 +16,7 @@
 | 2 | [ICT 인턴십 지원 후기](https://jjimini.github.io/posts/ICT-%EC%9D%B8%ED%84%B4-%EC%A7%80%EC%9B%90-%ED%9B%84%EA%B8%B0/) | 2024.07.31|
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=200&section=footer" />
 
 <!--
 **JJimini/JJimini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
