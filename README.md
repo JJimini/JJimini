@@ -8,7 +8,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JJimini&theme=onedark)](https://git.io/streak-stats)
 
-## 📒 Latest Posting
+## 📒 Main Posting
 
 | Number | Posting | Date |
 |--------|---------|------|
