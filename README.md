@@ -1,8 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B6D6D&height=200&section=header" />
 
-## 👋🏻 Welcome!
-
-안녕하세요! **끊임없이 고민**하고, **지속적으로 발전**하는 백엔드 개발자 이지민입니다.
 
 ## 📈 Github
 
